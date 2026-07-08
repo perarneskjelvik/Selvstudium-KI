@@ -6,4 +6,4 @@ AND
 Summer
 X2
 
-<img src="../images/and.jpg" width="300">
+<img src="../images/and.png" width="300">
