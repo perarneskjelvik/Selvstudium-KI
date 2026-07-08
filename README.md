@@ -6,4 +6,4 @@ Programmeringen går imidlertid greit, og i katalogene her ligger eksempler på 
 
 ### Slackline = Sommer
 
-![Sommer på hytta](./images/20240504_161634.jpg)
+<img src="./images/20240504_161634.jpg" alt="Sommer på hytta" width="300">
