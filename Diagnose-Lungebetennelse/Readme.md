@@ -3,8 +3,8 @@
 Syke lunger eller friske lunger?
 
 Røntgenbilder er lastet ned fra Kaggle.com. 
-https://www.kaggle.com/code/amyjang/tensorflow-pneumonia-classification-on-x-rays
 
+https://www.kaggle.com/code/amyjang/tensorflow-pneumonia-classification-on-x-rays
 
 Programmet trener opp en modell til å skille mellom normale lunger og lunger med lungebetennelse. Her er det en del billedbehandling før modellen trenes. Treningen styres av flere parametre.
 
