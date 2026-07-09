@@ -12,5 +12,5 @@ Teoretisk bakgrunn fra boken "Neural Networks For Chess" (Dominik Klein, 2022).
 https://github.com/asdfjkl/neural_network_chess
 
 <img src="../images/chess.jpg" width="300">
-<img src="../images/Skjermbilde 2026-07-09 114627.jpg" width="300">
+<img src="../images/Skjermbilde 2026-07-09 114627.jpg" width="500">
 
